@@ -1,0 +1,9 @@
+streamlit
+gliner
+torch
+transformers
+huggingface_hub
+safetensors
+tokenizers
+numpy
+pandas
