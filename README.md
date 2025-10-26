@@ -5,7 +5,7 @@ colorFrom: blue
 colorTo: green
 sdk: streamlit
 sdk_version: 1.28.1
-app_file: streamlit_app.py
+app_file: src/streamlit_app.py
 pinned: false
 license: mit
 ---
